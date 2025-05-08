@@ -21,12 +21,20 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - **Global Sales Trend | Tendencia En Ventas Mundiales:** Pico más alto en 2008 con 678.9 M unidades  
 
 ## 4. Global Overview
-![image](https://github.com/user-attachments/assets/087cd230-57f3-4bd0-bf8c-c5eda00605ac)
+![image](https://github.com/user-attachments/assets/ddca8b64-3b5a-40e3-aff8-dc7d9507b6de)
+
 
 **Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
-- La plataforma con más ventas en la historia es PlayStation 2 (1233.46)
+- La plataforma con más ventas en la historia es PlayStation 2 (1233.46 M), en el segundo y tercer puesto se encuentran X360 (969.61 M) y PlayStation 3 (949.35 M)
+- También en el puesto 9 se encuentra PlayStation 4, conviertiendo a PlayStation en la empresa que más lineas de consolas tiene en este top 10.
 
+**Top Video Game Titles by Global Sales | Videojuegos Con Más Ventas Mundiales**
+- El primer puesto se lo lleva Wii Sports con 82.74 M de unidades vendidas, sacando una diferencia considerable al segundo puesto (Grand Theft Auto V - 55.92 M)
+- El 70% de los juegos en este top son de Nintendo.
+- Take-Two-Interactive y Activision acompañan a Nintendo en el top con 1 y 2 juegos respectivamente.
 
+**Top 10 Publishers by Global Revenue | Top 10 Publishers Con Más Ventas Globales**
+- El podio queda de la siguiente manera: El primer puesto lo ocupa Nintendo con 1784.43 M, el segundo puesto es ocupado por Electronic Arts (1093.39 M), y el tercer puesto por Activision (721.41 M).
 
 
 
