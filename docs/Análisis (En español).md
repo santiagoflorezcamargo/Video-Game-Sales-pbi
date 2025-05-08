@@ -21,7 +21,12 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - **Global Sales Trend | Tendencia En Ventas Mundiales:** Pico más alto en 2008 con 678.9 M unidades  
 
 ## 4. Global Overview
-![Platforms Bar Chart](../exports/Page2_Platforms.png)  
-**Top 10 Platforms by Global Sales**  
-- PlayStation 2: 1,233.46 M  
-- Nintendo DS: 948.23 M 
+![image](https://github.com/user-attachments/assets/087cd230-57f3-4bd0-bf8c-c5eda00605ac)
+
+**Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
+- La plataforma con más ventas en la historia es PlayStation 2 (1233.46)
+
+
+
+
+
