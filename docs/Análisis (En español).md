@@ -77,9 +77,26 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 **Sales Fluctuation of the Four Best-Selling Genders | Fluctuación de Ventas de los 4 Generos Más Vendidos**
 - Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los     años 2005 - 2011, la epoca dorada de la industria del gaming
 - Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2
-- Genero Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el exito de juegos como Wii   Sports en 2006, y Wii Sports Resort y Wii Fit Plus en 2009.
-- Genero Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
+- Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el exito de juegos como Wii          Sports en 2006, y Wii Sports Resort y Wii Fit Plus en 2009.
+- Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
   estuvo durante 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
 - Role-Playing: Incluso desde 1996 ya venía incrementando su linea de tendencia debido a la gran popularidad de Pokemon a finales de los     90's
 - Action: Su pico más alto fue en 2013, impulsado por el lanzamiento de Grand Theft Auto V
+
+**Global Sales Trend Over Time | Tendencia de Ventas Globales a Través del Tiempo**
+- En los primeros años las ventas eran relativamente bajas, pues la industria aún era nueva y no tenía tanta popularidad
+- Epoca dorada: los mejores años fueron entre 2005 y 2011, alcanzando ventas de 678.49 millones de unidades en un solo año (2008)
+- Del 2015 en adelante las ventas disminuyeron de manera significativa, esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
+
+## 7. Outliers & Balance
+![image](https://github.com/user-attachments/assets/acf77228-0f00-4d90-bf97-ac4240e2d8ce)
+**North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
+- Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay una clara correlación entre las ventas en Norte       America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en       Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre         otros juegos)
+- Algunas de las causas de esta baja correlación puede deberse a diferencias culturales, los japoneses muestran un claro favoritismo por     los juegos de Role-Playing, mientras que los norte americanos tienen gustos más variados y una inclinación hacia el genero Shooter
+
+**North America vs. Europe – Sales Correlation & Dispersion | Norte America vs Europa - Dispersión y Correlación de Ventas**
+- Acá estas dos regiones muestran una mayor correlación. Los puntos tienden a estar cerca de la linea de tendencia, a excepción de unos     cuantos puntos atipicos.
+- Observamos que hay una simulitud entre los gustos de estas dos regiones. En general, los juegos que fueron un exito en Norte America,     también fueron un exito en Europa
+
+
 
