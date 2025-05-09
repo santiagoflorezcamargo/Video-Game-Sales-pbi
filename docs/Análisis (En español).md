@@ -52,4 +52,23 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 **Publisher Sales Breakdown by Region | Distribución de Ventas de los Publishers por Región**
 - Los publishers que más vendieron en Norte America y Europa fueron: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment y  Ubisoft (en ese mismo orden en ambas regiones). Vemos lo parecidos que son estos dos mercados.
 - En Japón los 5 publishers que más vendieron fueron: 1. Nintendo, 2. Namco Badai Games, 3. Konami Digital Entertainment, 4. Sony Computer Entertainment, y 5. Capcom. Se observa la fuerte inclinación hacía los publishers locales.
-- En el resto del mundo es como en Europa y Norte America, a diferencia que el primer puesto se lo lleva Electronic Arts, y está Take-Two Interactive en lugar de Ubisoft.
+- En el resto del mundo es como en Europa y Norte America, con la diferencia que el primer puesto se lo lleva Electronic Arts, y está Take-Two Interactive en lugar de Ubisoft.
+
+**Sales by Genre and Region | Ventas por Genero y Región**
+- Norte America es la región con más ventas en cada genero, con excepción del genero Role-Playing donde es Japón quién lidera 
+- El genero que menos gusta a los japoneses es el genero Shooter, a pesar de que este es el tercer genero con más ventas mundiales
+- El genero que más gusta a Europa, Norte America y el resto del mundo es Action, en Japón es Role-Playing. Por otra parte, Strategy es el genero con menos ventas en Europa, Norte America y el resto del mundo.
+
+## 6. Temporal Trends
+![image](https://github.com/user-attachments/assets/b50419d5-00e9-4439-8746-024d53a1bac5)
+**Regional Share of the Global Market**  
+- Japón y Norte America estuvieron disputandose el primer puesto en participación en el mercado desde 1980 hasta 1995
+- De 1996 hasta 2015 Norte America fue la región con más ventas en cada año
+- Europa desde 1997 en adelante tomó el segundo puesto; y en 2016 fue su mejor año, ocupando el primer lugar con una participación en el mercado de 37.76%, dejando a Norte America en segundo puesto con 31.97% 
+
+**Platform Sales Over Time**
+
+
+
+
+
