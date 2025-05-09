@@ -74,9 +74,12 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
   2010 y 2015, y PlayStation 3 del 2011 al 2014. 
 - DS, la cual se estrenó en el 2004, alcanzó su pico más alto en el 2007; logrando ventas de 298.38 millones
 
-**Sales Fluctuation of the Four Best-Selling Genders**
+**Sales Fluctuation of the Four Best-Selling Genders | Fluctuación de Ventas de los 4 Generos Más Vendidos**
 - Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los     años 2005 - 2011, la epoca dorada de la industria del gaming
-- 
-
-
+- Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2
+- Genero Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el exito de juegos como Wii   Sports en 2006, y Wii Sports Resort y Wii Fit Plus en 2009.
+- Genero Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
+  estuvo durante 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
+- Role-Playing: Incluso desde 1996 ya venía incrementando su linea de tendencia debido a la gran popularidad de Pokemon a finales de los     90's
+- Action: Su pico más alto fue en 2013, impulsado por el lanzamiento de Grand Theft Auto V
 
