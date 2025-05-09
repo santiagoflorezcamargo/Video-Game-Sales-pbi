@@ -51,5 +51,5 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 **Publisher Sales Breakdown by Region | Distribución de Ventas de los Publishers por Región**
 - Los publishers que más vendieron en Norte America y Europa fueron: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment y  Ubisoft (en ese mismo orden en ambas regiones). Vemos lo parecidos que son estos dos mercados.
-- En Japón los 5 publishers que más vendieron fueron: 1. Nintendo, 2. Namco Badai Games, 3. Konami Digital Entertainment, 4. Sony Computer Entertainment, y 5. Capcom. Se observa la diferencia en los gustos entre esta región y las demás.
-- En el resto del mundo es como en Europa y Norte America, a diferencia que el primer puesto se lo lleva Electronic Arts y está Take-Two Interactive en lugar de Ubisoft.
+- En Japón los 5 publishers que más vendieron fueron: 1. Nintendo, 2. Namco Badai Games, 3. Konami Digital Entertainment, 4. Sony Computer Entertainment, y 5. Capcom. Se observa la fuerte inclinación hacía los publishers locales.
+- En el resto del mundo es como en Europa y Norte America, a diferencia que el primer puesto se lo lleva Electronic Arts, y está Take-Two Interactive en lugar de Ubisoft.
