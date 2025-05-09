@@ -34,7 +34,11 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Take-Two-Interactive y Activision acompañan a Nintendo en el top con 1 y 2 juegos respectivamente.
 
 **Top 10 Publishers by Global Revenue | Top 10 Publishers Con Más Ventas Globales**
-- El podio queda de la siguiente manera: El primer puesto lo ocupa Nintendo con 1784.43 M, el segundo puesto es ocupado por Electronic Arts (1093.39 M), y el tercer puesto por Activision (721.41 M).
+- El podio queda de la siguiente manera: El primer puesto lo ocupa Nintendo con 1784.43 M, el segundo puesto es ocupado por Electronic Arts (1093.39 M), y el tercer puesto por Activision (721.41 M)
+- El 41.44% de las ventas de Nintendo corresponden a las plataformas DS y Wii
+- El 71.48% de las ventas de Electronic Arts corresponden a las plataformas de la empresa PlayStation
 
-
+**Sales by Genre + Global Average Line | Ventas por Genero + Linea de Promedios de Ventas Globales**
+- El primer lugar se lo lleva el género Action con ventas de 1722.88 millones de unidades (el 19.53% de ventas globales)
+- El genero Platform es el que tiene el promedio de ventas más altas, teniendo en cuenta que ocupa el puesto 5 de generos con más ventas
 
