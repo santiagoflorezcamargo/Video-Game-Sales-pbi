@@ -38,7 +38,18 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - El 41.44% de las ventas de Nintendo corresponden a las plataformas DS y Wii
 - El 71.48% de las ventas de Electronic Arts corresponden a las plataformas de la empresa PlayStation
 
-**Sales by Genre + Global Average Line | Ventas por Genero + Linea de Promedios de Ventas Globales**
+**Sales by Genre + Global Average Line | Ventas por Genero + Linea de Promedios de Ventas**
 - El primer lugar se lo lleva el género Action con ventas de 1722.88 millones de unidades (el 19.53% de ventas globales)
 - El genero Platform es el que tiene el promedio de ventas más altas, teniendo en cuenta que ocupa el puesto 5 de generos con más ventas
+- Desde el año 1980 hasta el 2000, el genero con más ventas fue Platform.
 
+## 5. Regional Deep‑Dive
+![image](https://github.com/user-attachments/assets/e7921525-e6fe-4f16-9564-062a09f39c59)
+**Global Sales Shared by Region | Ventas Globales Compartidas por Región**  
+- Norte América representa practicamente la mitad de las ventas historicas mundiales en la industria del gaming con el 49.15%
+- Europa, Japón, y el resto del mundo representan el 27.33%, 14.57% y 8.95% de las ventas historicas, respectivamente.
+
+**Publisher Sales Breakdown by Region | Distribución de Ventas de los Publishers por Región**
+- Los publishers que más vendieron en Norte America y Europa fueron: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment y  Ubisoft (en ese mismo orden en ambas regiones). Vemos lo parecidos que son estos dos mercados.
+- En Japón los 5 publishers que más vendieron fueron: 1. Nintendo, 2. Namco Badai Games, 3. Konami Digital Entertainment, 4. Sony Computer Entertainment, y 5. Capcom. Se observa la diferencia en los gustos entre esta región y las demás.
+- En el resto del mundo es como en Europa y Norte America, a diferencia que el primer puesto se lo lleva Electronic Arts y está Take-Two Interactive en lugar de Ubisoft.
