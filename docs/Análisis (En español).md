@@ -61,15 +61,22 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 ## 6. Temporal Trends
 ![image](https://github.com/user-attachments/assets/d857a751-a023-41e9-ac29-9370ae8bd161)
-**Regional Share of the Global Market**  
+**Regional Share of the Global Market | Participación Regional en el Mercado Global**  
 - Japón y Norte America estuvieron disputandose el primer puesto en participación en el mercado desde 1980 hasta 1995
 - De 1996 hasta 2015 Norte America fue la región con más ventas en cada año
 - Europa desde 1997 en adelante tomó el segundo puesto; y en 2016 fue su mejor año, ocupando el primer lugar con una participación en el     mercado de 37.76%, dejando a Norte America en segundo puesto con 31.97% 
 
-**Platform Sales Over Time**
+**Platform Sales Over Time | Ventas de las Plataformas a lo Largo del Tiempo**
 - Las 5 plataformas con más ventas en la historia fueron lanzadas desde el año 2000 en adelante
 - PlayStation 2 fue la consola más vendida desde el 2000 hasta el 2005
 - En 2006 fue el lanzamiento del Nintendo Wii, ese mismo año fue la consola más vendida; también lo sería en el 2007, 2008 y 2009
 - El Xbox 360 y el PlayStation 3 fueron estrenados en los años 2005 y 2006, respectivamente. Xbox 360 fue la plataforma más vendida en el
   2010 y 2015, y PlayStation 3 del 2011 al 2014. 
 - DS, la cual se estrenó en el 2004, alcanzó su pico más alto en el 2007; logrando ventas de 298.38 millones
+
+**Sales Fluctuation of the Four Best-Selling Genders**
+- Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los     años 2005 - 2011, la epoca dorada de la industria del gaming
+- 
+
+
+
