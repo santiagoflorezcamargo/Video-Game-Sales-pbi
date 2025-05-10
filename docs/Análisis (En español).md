@@ -101,5 +101,10 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 **North America vs. Rest of the World – Sales Correlation & Dispersion | Norte America vs El Resto del Mundo - Dispersión y Correlación de Ventas**
 - Hay mayor correlación que en Japón pero menos que en Europa.
-- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen cierta inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        generos Role-Playing y Platform.
+- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen cierta inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
+
+**Sales Distribution by Genre | Distribución de Ventas por Genero**
+- 
+
+
 
