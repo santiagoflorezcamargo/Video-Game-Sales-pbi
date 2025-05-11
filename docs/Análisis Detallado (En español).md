@@ -98,11 +98,10 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
   Eje Y: Suma de Global Sales<br>
   Segmentación de datos (slicer): year<br>
 
-
 **Global Sales Trend Over Time | Tendencia de Ventas Globales a Través del Tiempo**
 - En los primeros años las ventas eran relativamente bajas, pues la industria aún era nueva y no tenía tanta popularidad
 - Epoca dorada: los mejores años fueron entre 2005 y 2011, alcanzando ventas de 678.49 millones de unidades en un solo año (2008)
-- Del 2015 en adelante las ventas disminuyeron de manera significativa, esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
+- Del 2015 en adelante las ventas disminuyeron de manera significativa, pasando de 264.26 M en 2015 a 70.87 M en 2016. Esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
 
 ## 6. Outliers & Balance
 ![image](https://github.com/user-attachments/assets/e828e556-f2c4-43f9-b3d5-f0389fdc5959)
