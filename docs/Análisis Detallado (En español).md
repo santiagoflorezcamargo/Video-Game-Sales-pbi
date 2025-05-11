@@ -86,6 +86,8 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
   Leyenda: platform<br>
   'Eje X': genre<br>
   'Eje Y': Suma de Global Sales<br>
+  Segmentación de datos slicer: year
+  
 - Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el exito de juegos como Wii         Sports en 2006, y Wii Sports Resort y Wii Fit   Plus en 2009.
 - Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
   estuvo durante 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
