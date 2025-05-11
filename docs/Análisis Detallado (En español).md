@@ -79,6 +79,13 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 **Sales Fluctuation of the Four Best-Selling Genders | Fluctuación de Ventas de los 4 Generos Más Vendidos**
 - Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los    años 2005 - 2011, la epoca dorada de la         industria del gaming
 - Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2. El cual en el 2005 ya representaba el 36.23%,          37.63%, 30.07%, y 17.4% de las ventas de los generos Action, Sports, Shooter, y Role-Playing, respectivamente
+
+  **Metodología**<br>
+  Para complementar este analisis usé:<br>
+  Gráfico: Gráfico de columnas 100% apiladas<br>
+  Leyenda: platform<br>
+  'Eje X': genre<br>
+  'Eje Y': Suma de Global Sales<br>
 - Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el exito de juegos como Wii         Sports en 2006, y Wii Sports Resort y Wii Fit   Plus en 2009.
 - Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
   estuvo durante 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
