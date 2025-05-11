@@ -24,7 +24,6 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 ## 4. Global Overview
 ![image](https://github.com/user-attachments/assets/ddca8b64-3b5a-40e3-aff8-dc7d9507b6de)
 
-
 **Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
 - La plataforma con más ventas en la historia es PlayStation 2 (1233.46 M), en el segundo y tercer puesto se encuentran X360 (969.61 M) y   PlayStation 3 (949.35 M)
 - También en el puesto 9 se encuentra PlayStation 4, conviertiendo a PlayStation en la empresa que más lineas de consolas tiene en este     top 10.
@@ -46,6 +45,7 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 ## 5. Regional Deep‑Dive
 ![image](https://github.com/user-attachments/assets/e7921525-e6fe-4f16-9564-062a09f39c59)
+
 **Global Sales Shared by Region | Ventas Globales Compartidas por Región**  
 - Norte América representa practicamente la mitad de las ventas historicas mundiales en la industria del gaming con el 49.15%
 - Europa, Japón, y el resto del mundo representan el 27.33%, 14.57% y 8.95% de las ventas historicas, respectivamente.
@@ -62,6 +62,7 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 ## 6. Temporal Trends
 ![image](https://github.com/user-attachments/assets/d857a751-a023-41e9-ac29-9370ae8bd161)
+
 **Regional Share of the Global Market | Participación Regional en el Mercado Global**  
 - Japón y Norte America estuvieron disputandose el primer puesto en participación en el mercado desde 1980 hasta 1995
 - De 1996 hasta 2015 Norte America fue la región con más ventas en cada año
@@ -117,5 +118,8 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - El 75% de las ventas de las plataformas son menor o igual a 284.90 (Q3), lo que refleja el contraste de las ventas que son muy altas 
   (1233.46, 969.61, etc) con otras muy bajas (0.03, 0.1, etc)
 
-  
+**Sales Distribution by Publisher & Genre | Distribución de Ventas por Publisher y Género**
+- Las ventas de generos como Action, Sports, Shooter, entre otros, fueron consideradas atipicas por algunos publishers debido al gran       exito que tuvieron.
+- Sony Computer Entertainment: Median = Mean. Esto indica que la distribución es simetrica; además, la mitad de los valores cubren el 70%   del rango total (IQR/Rango total = 0.7). Esto quiere decir que hay una amplia dispersión central de las ventas
+- 
 
