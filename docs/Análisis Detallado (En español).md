@@ -120,6 +120,6 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 **Sales Distribution by Publisher & Genre | Distribución de Ventas por Publisher y Género**
 - Las ventas de generos como Action, Sports, Shooter, entre otros, fueron consideradas atipicas por algunos publishers debido al gran       exito que tuvieron.
-- Sony Computer Entertainment: Median = Mean. Esto indica que la distribución es simetrica; además, la mitad de los valores cubren el 70%   del rango total (IQR/Rango total = 0.7). Esto quiere decir que hay una amplia dispersión central de las ventas
-- 
+- Sony Computer Entertainment: Median = Mean. Esto indica que la distribución es simetrica; además, la mitad de los valores cubren el 70%   del rango total (IQR/Rango total = 0.7). Esto quiere decir la dispersión central de las ventas es muy amplia
+- Con excepcion de Sony Computer Entertainment, todos los publishers de este top tienen una media mayor a la mediana, lo que refleja una    asimetría en sus boxplots, causada por ventas bastante altas 
 
