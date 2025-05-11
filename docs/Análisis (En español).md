@@ -90,7 +90,8 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Del 2015 en adelante las ventas disminuyeron de manera significativa, esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
 
 ## 7. Outliers & Balance
-![image](https://github.com/user-attachments/assets/e9f23c5e-de46-4381-a024-1622a6d526c9)
+![image](https://github.com/user-attachments/assets/0f804bbb-52a8-48dd-bb0d-3e5f35712997)
+
 **North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
 - Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay una clara correlación entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos)
 - Algunas de las causas de esta baja correlación puede deberse a diferencias culturales, los japoneses muestran un claro favoritismo por    los juegos de Role-Playing, mientras que los norte americanos tienen gustos más variados y una inclinación hacia el genero Shooter
