@@ -114,5 +114,5 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Hay 6 puntos fuera de los bigotes del boxplot, estos valores atipicos (1233.46 M, 969.61 M, etc) son ventas que fueron un gran exito y    rompieron el mercado. Ventas que superan por mucho el limite del bigote superior (679.01 M) 
 - La media (284.53) es considerablemente mayor que la mediana (200.05), esto se debe a los outliers que atrajeron la media hacía arriba
 - El 75% de las ventas de las plataformas son menor o igual a 284.90 (Q3), lo que refleja el contraste de las ventas que son muy altas 
-  (1233.46, 969.61, 909.81, etc) con otras muy bajas (0.03, 0.04, 0.1, etc)
+  (1233.46, 969.61, etc) con otras muy bajas (0.03, 0.1, etc)
 
