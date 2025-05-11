@@ -80,18 +80,24 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los años 2005 - 2011, la epoca dorada de la         industria del gaming
 - Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2. El cual en el 2005 ya representaba el 36.23%,          37.63%, 30.07%, y 17.4% de las ventas de los generos Action, Sports, Shooter, y Role-Playing, respectivamente
 - Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el lanzamiento del Nintendo Wii en 2006; el cual en solo 3 años después, ya         representaba el 25% de las ventas historicas de este género. Y a eso se le suma el exito de juegos como Wii Sports en 2006, y Wii Sports Resort y Wii Fit Plus en 2009.
-- Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la llegada del juego Call of Duty, el cual
-  estuvo durante 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
-- Role-Playing: Incluso desde 1996 ya venía incrementando su linea de tendencia debido a la gran popularidad de Pokemon a finales de los     90's
-- Action: Su pico más alto fue en 2013, impulsado por el lanzamiento de Grand Theft Auto V
+- Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la franquicia Call of Duty, la cual estuvo durante esos 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
+- Role-Playing: Incluso desde 1996 ya venía con una tendencia al alza debido a la gran popularidad de Pokemon a finales de los 90's
+- Action: Tuvo su pico más alto en 2009, a pesar de que en ese año no hubieron hits del genero acción. Sin embargo contaba con una gran variedad de juegos que tuvieron buenos numeros      ese año, haciendo que se eleve el total de ventas 
 
   **Metodología**<br>
   Para complementar estos analisis usé:<br>
-  Gráfico: Gráfico de columnas 100% apiladas<br>
+  Gráfico 1: Gráfico de columnas 100% apiladas<br>
   Leyenda: platform<br>
-  'Eje X': genre<br>
-  'Eje Y': Suma de Global Sales<br>
-  Segmentación de datos slicer: year
+  Eje X: genre<br>
+  Eje Y: Suma de Global Sales<br>
+  Segmentación de datos (slicer): year<br>
+  
+  Grafico 2: Grafico de columnas agrupadas<br>
+  Leyenda: name<br>
+  Eje X: year<br>
+  Eje Y: Suma de Global Sales<br>
+  Segmentación de datos (slicer): year<br>
+
 
 **Global Sales Trend Over Time | Tendencia de Ventas Globales a Través del Tiempo**
 - En los primeros años las ventas eran relativamente bajas, pues la industria aún era nueva y no tenía tanta popularidad
