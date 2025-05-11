@@ -104,7 +104,10 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen cierta inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
 
 **Sales Distribution by Genre | Distribución de Ventas por Genero**
-- 
+- Con un rango intercuartilico (IQR) es de 658.83 y un rango total de 1549.45, el rango intecuartilico representa el 42% del rango total.
+  esto nos dice que hay una alta dispersión central en las ventas de los generos
+- No hay ventas que sean consideradas atipicas, todos los puntos (las ventas por generos) están dentro de los limites del boxplot. Es       decir, que aunque hubieron ventas muy altas (Action: 1722.48 M), son consideradas como ventas que están dentro de la
+  variabilidad esperada.
 
 
 
