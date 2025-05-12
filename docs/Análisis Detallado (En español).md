@@ -10,38 +10,44 @@
 7. [Conclusions & Recommendations](#conclusions--recommendations)
 
 ## 1. Objective
-Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identificar tendencias por región, plataforma, género y entender el comportamiento de esta industria.
+Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identificar tendencias por región, plataforma, y género.
+Y entender el comportamiento de esta industria.
 
 ## 2. Executive Summary
 ![image](https://github.com/user-attachments/assets/481f0e33-6240-4273-b295-88a76b1142b6)
-- **Total Video Game Sales | Ventas Totales en Videojuegos:** 8820.36 millones de unidades  
-- **Top‑Selling Region | Región Con Más Ventas:** Norte América con 4333.43 millones, lo cual representa el 49.15 % de las ventas
-    mundiales  
-- **Best‑Selling Platform | Plataforma Con Más Ventas:** PlayStation 2 ocupa este puesto con 1233.46 M 
-- **Top‑Selling Game | Juego Más Vendido:** *Wii Sports* (82.74 M)  
-- **Global Sales Over Time (1980-2020) | Ventas Mundiales a lo Largo del Tiempo (1980-2020):** Pico más alto en 2008 con 678.9 M unidades  
+- **Total Video Game Sales | Ventas Totales en Videojuegos:** En total se han vendido 8820.36 millones de unidades de videojuegos en el mundo, desde 1980 hasta el         año 2020  
+- **Top‑Selling Region | Región Con Más Ventas:** Norte América es la región con más ventas en la historia de la industria de videojuegos, con 4333.43 millones de unidades; lo cual representa el 49.15 % de las ventas mundiales
+- **Best‑Selling Platform | Plataforma Con Más Ventas:** PlayStation 2 es la plataforma que más a vendido a lo largo de la historia, con 1233.46 M 
+- **Top‑Selling Game | Juego Más Vendido:** El juego más vendido en la historia es Wii Sports (82.74 M), lanzado en el año 2006  
+- **Global Sales Over Time (1980-2020) | Ventas Mundiales a lo Largo del Tiempo (1980-2020):** El pico más alto de ventas fue en 2008 con 678.9 millones de unidades  
 
 ## 3. Global Overview
 ![image](https://github.com/user-attachments/assets/ddca8b64-3b5a-40e3-aff8-dc7d9507b6de)
 
 **Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
 - La plataforma con más ventas en la historia es PlayStation 2 (1233.46 M), en el segundo y tercer puesto se encuentran X360 (969.61 M) y   PlayStation 3 (949.35 M)
-- También en el puesto 6, 8 y 9 se encuentran PlayStation, PlayStation Portable, y PlayStation 4, respectivamente; conviertiendo a PlayStation en la empresa que más lineas de consolas     tiene en este top 10.
+- También en el puesto 6, 8 y 9 se encuentran PlayStation, PlayStation Portable, y PlayStation 4, respectivamente; conviertiendo a PlayStation en la empresa que más consolas tiene en este top 10.
 
 **Top Video Game Titles by Global Sales | Videojuegos Con Más Ventas Mundiales**
 - El primer puesto se lo lleva Wii Sports con 82.74 M de unidades vendidas, sacando una diferencia considerable al segundo puesto (Grand Theft Auto V - 55.92 M)
 - El 70% de los juegos en este top son de Nintendo.
-- Take-Two-Interactive y Activision acompañan a Nintendo en el top con 1 y 2 juegos respectivamente.
+- Take-Two-Interactive y Activision acompañan a Nintendo en el top, con 1 y 2 juegos, respectivamente.
 
 **Top 10 Publishers by Global Revenue | Top 10 Publishers Con Más Ventas Globales**
-- El podio queda de la siguiente manera: El primer puesto lo ocupa Nintendo con 1784.43 M, el segundo puesto es ocupado por Electronic Arts (1093.39 M), y el tercer puesto por             Activision (721.41 M)
+- El podio queda de la siguiente manera: El primer puesto lo ocupa Nintendo con 1784.43 M, el segundo puesto es ocupado por Electronic Arts (1093.39 M), y el tercer puesto por Activision (721.41 M)
 - El 41.44% de las ventas de Nintendo corresponden a las plataformas DS y Wii
-- El 54.68% de las ventas de Electronic Arts corresponden a las plataformas de la empresa PlayStation
+- El 54.68% de las ventas de Electronic Arts corresponden a la linea de consolas de la empresa PlayStation
 
 **Sales by Genre + Global Average Line | Ventas por Genero + Linea de Promedios de Ventas**
 - El primer lugar se lo lleva el género Action con ventas de 1722.88 millones de unidades (el 19.53% de ventas globales)
 - El genero Platform es el que tiene el promedio de ventas más altas (0.95 M), teniendo en cuenta que ocupa el puesto 5 de generos con más ventas
-- Hasta el 2004, el genero con más ventas había sido Platform, impulsado por el auge de la franquicia Mario
+- Hasta el 2004 el genero con más ventas había sido Platform, impulsado por el auge de la franquicia Mario; la cual representa el 36.44%   de las ventas de este genero
+
+   **Metodología**<br>
+  Para complementar este analisis, además de los gráficos que se ven en pantalla, usé:<br>
+  Gráfico: Tabla<br>
+  Columnas: name, genre, sales<br>
+  
 
 ## 4. Regional Deep‑Dive
 ![image](https://github.com/user-attachments/assets/e7921525-e6fe-4f16-9564-062a09f39c59)
@@ -51,7 +57,7 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 - Europa, Japón, y el resto del mundo representan el 27.33%, 14.57% y 8.95% de las ventas historicas, respectivamente.
 
 **Publisher Sales Breakdown by Region | Distribución de Ventas de los Publishers por Región**
-- Los publishers que más vendieron en Norte America y Europa fueron: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment y   Ubisoft (en ese mismo orden en ambas regiones). Vemos lo parecidos que son estos dos mercados.
+- Los publishers que más vendieron en Norte America y Europa fueron: Nintendo, Electronic Arts, Activision, Sony Computer Entertainment y   Ubisoft (en ese mismo orden en ambas regiones). Esto muestra lo parecidos que son estos dos mercados.
 - En Japón los 5 publishers que más vendieron fueron: 1. Nintendo, 2. Namco Badai Games, 3. Konami Digital Entertainment, 4. Sony           Computer Entertainment, y 5. Capcom. Se observa la fuerte inclinación hacía los publishers locales.
 - En el resto del mundo es como en Europa y Norte America, con la diferencia que el primer puesto se lo lleva Electronic Arts, y está       Take-Two Interactive en lugar de Ubisoft.
 
@@ -64,9 +70,9 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 ![image](https://github.com/user-attachments/assets/11b61d6a-bee6-441c-880c-378d1736b926)
 
 **Regional Share of the Global Market | Participación Regional en el Mercado Global**  
-- Japón y Norte America estuvieron disputandose el primer puesto en participación en el mercado desde 1980 hasta 1995
+- Japón y Norte America estuvieron disputandose el primer puesto desde 1980 hasta 1995
 - De 1996 hasta 2015 Norte America fue la región con más ventas en cada año
-- Europa desde 1997 en adelante tomó el segundo puesto; y en 2016 fue su mejor año, ocupando el primer lugar con una participación en el    mercado de 37.76%, dejando a Norte America en segundo puesto con 31.97% 
+- Europa desde 1997 en adelante tomó el segundo puesto, superando a Japón; y en 2016 fue su mejor año, ocupando el primer lugar con una participación en el    mercado de 37.76%, dejando a Norte America en segundo puesto con 31.97% 
 
 **Platform Sales Over Time | Ventas de las Plataformas a lo Largo del Tiempo**
 - Las 5 plataformas con más ventas en la historia fueron lanzadas desde el año 2000 en adelante
@@ -78,7 +84,7 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 
 **Sales Fluctuation of the Four Best-Selling Genders | Fluctuación de Ventas de los 4 Generos Más Vendidos**
 - Los picos de ventas más altos de estos generos (Action, Sports, Shooter, y Role-Playing) generalmente se encuentran en el rango de los años 2005 - 2011, la epoca dorada de la         industria del gaming
-- Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2. El cual en el 2005 ya representaba el 36.23%,          37.63%, 30.07%, y 17.4% de las ventas de los generos Action, Sports, Shooter, y Role-Playing, respectivamente
+- Las lineas de tendencia empiezan a incrementarse a partir del año 2000, una de las causas de esto es la llegada del PlayStation 2. El cual en el 2005 ya representaba el 36.23% de las ventas del género Action, 37.63% de las ventas de Sports, 30.07% de Shooter, y 17.4% de Role-Playing
 - Sports: Sus picos más altos de ventas fueron en los años 2006 y 2009, esto altamente influenciado por el lanzamiento del Nintendo Wii en 2006; el cual en solo 3 años después, ya         representaba el 25% de las ventas historicas de este género. Y a eso se le suma el exito de juegos como Wii Sports en 2006, y Wii Sports Resort y Wii Fit Plus en 2009.
 - Shooter: Del 2007 al 2015 fueron los años que más ventas tuvo, esto evidentemente por la franquicia Call of Duty, la cual estuvo durante esos 9 años consecutivos dentro del top 3 de juegos más vendidos en el mundo
 - Role-Playing: Incluso desde 1996 ya venía con una tendencia al alza debido a la gran popularidad de Pokemon a finales de los 90's
