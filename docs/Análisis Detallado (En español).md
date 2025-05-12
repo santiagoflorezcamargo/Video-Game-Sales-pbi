@@ -10,13 +10,8 @@
 7. [Conclusions & Recommendations](#conclusions--recommendations)
 
 ## 1. Objective
-Introducción
-Este informe presenta un análisis exhaustivo de las ventas globales de videojuegos entre los años 1980 y 2020. Por medio de visualizaciones creadas en Power BI, exploramos:
--  La evolución histórica del mercado y sus picos más relevantes.
--  El desempeño por región, plataforma, género y franquicia.
--  Los títulos, publishers y consolas que han marcado la industria.
--  La dispersión y los outliers que revelan “grande exitos” frente a desempeños no tan buenos.
-El objetivo es extraer insights accionables y respaldar estrategias de producto, marketing y expansión basadas en datos reales.
+El objetivo principal de este informe es analizar exhaustivamente las ventas globales de videojuegos entre 1980 y 2020, identificando patrones y tendencias clave por región, plataforma, género y franquicia, para extraer insights accionables que respalden decisiones estratégicas de producto, marketing y expansión de mercado.
+
 
 ## 2. Executive Summary
 ![image](https://github.com/user-attachments/assets/481f0e33-6240-4273-b295-88a76b1142b6)
@@ -153,8 +148,8 @@ Tras examinar más de 8.800 millones de unidades vendidas y analizar múltiples 
 - PlayStation 2 es la consola más exitosa de la historia, con 1.233,46 M unidades; el 13,98 % del total de ventas historicas.
 - El género Action lidera con el 19,53 % de los ingresos, mientras que Role-Playing crece de forma constante gracias a franquicias como Pokémon.
 - El pico de ventas globales (678,9 M unidades) se alcanzó en 2008; desde 2016 existe un declive asociado al auge de los juegos móviles.
-- La dispersión de ventas en las diferentes regiones, tienen coeficientes de variación mayores al 300 %, lo que revela una industria polarizada: pocos títulos “mega-éxitos” contra una larga cola de juegos de rendimiento moderado.
-Estos hallazgos ofrecen una base sólida para:
+- La dispersión de ventas en las diferentes regiones, tienen coeficientes de variación mayores al 300 %, lo que revela una industria polarizada: pocos títulos “mega-éxitos” contra una larga cola de juegos de rendimiento moderado.<br>
+Recomendaciones:
 - Priorizar el desarrollo y marketing de géneros y regiones de mayor crecimiento.
 - Replicar modelos de negocio de títulos con bajo grado de variabilidad y buenas ventas.
 - Implementar modelos predictivos que anticipen ventas por mercado y plataforma.
