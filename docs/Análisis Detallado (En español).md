@@ -3,10 +3,10 @@
 ## 📑 Tabla de Contenido
 1. [Objective](#objective)  
 2. [Executive Summary](#executive-summary)  
-3. [Global Overview](#global-overview)  
-4. [Regional Deep‑Dive](#regional-deep-dive)  
-5. [Temporal Trends](#temporal-trends)  
-6. [Outliers & Balance](#outliers--balance)  
+3. [Worldwide Insights](#Worldwide-Insights)  
+4. [Regional Breakdown](#Regional-Breakdown)  
+5. [Trends Over Time](#Trends-Over-Time)  
+6. [Variability & Outliers](Variability-&-Outliers)  
 7. [Conclusions & Recommendations](#conclusions--recommendations)
 
 ## 1. Objective
@@ -21,7 +21,7 @@ Y entender el comportamiento de esta industria.
 - **Top‑Selling Game | Juego Más Vendido:** El juego más vendido en la historia es Wii Sports (82.74 M), lanzado en el año 2006  
 - **Global Sales Over Time (1980-2020) | Ventas Mundiales a lo Largo del Tiempo (1980-2020):** El pico más alto de ventas fue en 2008 con 678.9 millones de unidades  
 
-## 3. Global Overview
+## 3. Worldwide Insights
 ![image](https://github.com/user-attachments/assets/ddca8b64-3b5a-40e3-aff8-dc7d9507b6de)
 
 **Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
@@ -49,7 +49,7 @@ Y entender el comportamiento de esta industria.
   Columnas: name, genre, sales<br>
   
 
-## 4. Regional Deep‑Dive
+## 4. Regional Breakdown
 ![image](https://github.com/user-attachments/assets/e7921525-e6fe-4f16-9564-062a09f39c59)
 
 **Global Sales Shared by Region | Ventas Globales Compartidas por Región**  
@@ -66,7 +66,7 @@ Y entender el comportamiento de esta industria.
 - El genero que menos gusta a los japoneses es el genero Shooter, a pesar de que este es el tercer genero con más ventas mundiales
 - El genero que más gusta a Europa, Norte America y el resto del mundo es Action, en Japón es Role-Playing. Por otra parte, Strategy es     el genero con menos ventas en Europa, Norte America y el resto del mundo.
 
-## 5. Temporal Trends
+## 5. Trends Over Time
 ![image](https://github.com/user-attachments/assets/11b61d6a-bee6-441c-880c-378d1736b926)
 
 **Regional Share of the Global Market | Participación Regional en el Mercado Global**  
@@ -109,7 +109,7 @@ Y entender el comportamiento de esta industria.
 - Epoca dorada: los mejores años fueron entre 2005 y 2011, alcanzando ventas de 678.49 millones de unidades en un solo año (2008)
 - Del 2015 en adelante las ventas disminuyeron de manera significativa, pasando de 264.26 M en 2015 a 70.87 M en 2016. Esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
 
-## 6. Outliers & Balance
+## 6. Variability & Outliers
 ![image](https://github.com/user-attachments/assets/e828e556-f2c4-43f9-b3d5-f0389fdc5959)
 
 **North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
