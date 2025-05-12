@@ -107,28 +107,28 @@ Analizar las ventas de videojuegos entre 1980 y 2020 para de esta manera identif
 ![image](https://github.com/user-attachments/assets/e828e556-f2c4-43f9-b3d5-f0389fdc5959)
 
 **North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
-- Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay una clara correlación entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos)
+- Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos)
 - Algunas de las causas de esta baja correlación puede deberse a diferencias culturales, los japoneses muestran un claro favoritismo por    los juegos de Role-Playing, mientras que los norte americanos tienen gustos más variados y una inclinación hacia el genero Shooter
 
 **North America vs. Europe – Sales Correlation & Dispersion | Norte America vs Europa - Dispersión y Correlación de Ventas**
-- Acá estas dos regiones muestran una mayor correlación. Los puntos tienden a estar cerca de la linea de tendencia, a excepción de unos     cuantos outliers.
+- Estas dos regiones muestran una mayor correlación. Los puntos tienden a estar cerca de la linea de tendencia, a excepción de unos     cuantos outliers.
 - Observamos que hay una similitud entre los gustos de estas dos regiones. En general, los juegos que fueron un exito en Norte America,     también fueron un exito en Europa
 
 **North America vs. Rest of the World – Sales Correlation & Dispersion | Norte America vs El Resto del Mundo - Dispersión y Correlación de Ventas**
 - Hay mayor correlación que en Japón pero menos que en Europa.
-- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen cierta inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
+- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen una fuerte inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
 
 **Sales Distribution by Genre | Distribución de Ventas por Genero**
-- Con un rango intercuartilico (IQR) de 658.83 y un rango total de 1549.45, el rango intecuartilico representa el 42% del rango total.
-  Esto nos dice que hay una alta dispersión central en las ventas de los generos
+- Con un rango intercuartilico (IQR) de 658.83 y un rango total de 1549.45, el rango intecuartilico representa el 42.46% del rango total    (658/1549.45=0.4246). Esto nos dice que hay una alta dispersión central en las ventas de los generos
 - No hay ventas que sean consideradas atipicas, todos los puntos (las ventas por generos) están dentro de los limites del boxplot. Es       decir, que aunque hubieron ventas muy altas (Action: 1722.48 M), son consideradas como ventas que están dentro de la
   variabilidad esperada.
-- La mediana (762.19) es ligeramente mayor que la media (735.03), esto nos dice que hubieron varias ventas con valores muy bajos,           que 'jalaron' la media hacia abajo.
+- La mediana (762.19) es ligeramente mayor que la media (735.03), esto ocurre porque hubieron varias ventas con valores muy bajos
+  que 'jalaron' la media hacia abajo.
 
 **Sales Distribution by Platform | Distribución de Ventas por Plataforma**
-- Hay 6 puntos fuera de los bigotes del boxplot, estos valores atipicos (1233.46 M, 969.61 M, etc) son ventas que fueron un gran exito y    rompieron el mercado. Ventas que superan por mucho el limite del bigote superior (679.01 M) 
-- La media (284.53) es considerablemente mayor que la mediana (200.05), esto se debe a los outliers que atrajeron la media hacía arriba
-- El 75% de las ventas de las plataformas son menor o igual a 284.90 (Q3), lo que refleja el contraste de las ventas que son muy altas 
+- Hay 6 puntos fuera de los bigotes del boxplot, estos valores atipicos (1233.46 M, 969.61 M, etc) son ventas que fueron un gran exito y    rompieron el mercado. Son ventas que superan por mucho el limite del bigote superior (679.01 M) 
+- La media (284.53) es considerablemente mayor que la mediana (200.05), esto se debe a los outliers que atrajeron la media hacía arriba     (PS2: 1233.46, X360: 969.61, etc)
+- El 75% de las ventas de las plataformas son menor igual a 284.90 (Q3), lo que refleja el contraste de las ventas que son muy altas 
   (1233.46, 969.61, etc) con otras muy bajas (0.03, 0.1, etc)
 
 **Sales Distribution by Publisher & Genre | Distribución de Ventas por Publisher y Género**
