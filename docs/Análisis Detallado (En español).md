@@ -6,7 +6,7 @@
 3. [Worldwide Insights](#Worldwide-Insights)  
 4. [Regional Breakdown](#Regional-Breakdown)  
 5. [Trends Over Time](#Trends-Over-Time)  
-6. [Variability & Outliers](Variability-&-Outliers)  
+6. [Variability & Outliers](#Variability-&-Outliers)  
 7. [Conclusions & Recommendations](#conclusions--recommendations)
 
 ## 1. Objective
