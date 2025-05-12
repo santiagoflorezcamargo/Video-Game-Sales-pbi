@@ -50,7 +50,7 @@ Y entender el comportamiento de esta industria.
   
 
 ## 4. Regional Breakdown
-![image](https://github.com/user-attachments/assets/e7921525-e6fe-4f16-9564-062a09f39c59)
+![image](https://github.com/user-attachments/assets/ae680130-f9fe-473d-bbca-48632836e8ac)
 
 **Global Sales Shared by Region | Ventas Globales Compartidas por Región**  
 - Norte América representa practicamente la mitad de las ventas historicas mundiales de la industria del gaming con el 49.15%
@@ -91,7 +91,7 @@ Y entender el comportamiento de esta industria.
 - Action: Tuvo su pico más alto en 2009, a pesar de que en ese año no hubieron hits del genero acción. Sin embargo contaba con una gran variedad de juegos que tuvieron buenos numeros      ese año, haciendo que se eleve el total de ventas 
 
   **Metodología**<br>
-  Para complementar estos analisis usé:<br>
+  Para complementar estos analisis, además de los gráficos que acabas de ver, usé:<br>
   Gráfico 1: Gráfico de columnas 100% apiladas<br>
   Leyenda: platform<br>
   Eje X: genre<br>
@@ -110,7 +110,7 @@ Y entender el comportamiento de esta industria.
 - Del 2015 en adelante las ventas disminuyeron de manera significativa, pasando de 264.26 M en 2015 a 70.87 M en 2016. Esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc)
 
 ## 6. Variability & Outliers
-![image](https://github.com/user-attachments/assets/e828e556-f2c4-43f9-b3d5-f0389fdc5959)
+![image](https://github.com/user-attachments/assets/ea53e7d4-2f06-4986-924c-e947460551c0)
 
 **North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
 - Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos)
