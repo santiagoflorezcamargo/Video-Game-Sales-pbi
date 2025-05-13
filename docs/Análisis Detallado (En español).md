@@ -1,13 +1,15 @@
 # Análisis de Ventas Globales de Videojuegos (1980–2020)
 
 ## 📑 Tabla de Contenido
-1. [Objective](#objective)  
-2. [Executive Summary](#executive-summary)  
-3. [Worldwide Insights](#worldwide-insights)  
-4. [Regional Breakdown](#regional-breakdown)  
-5. [Trends Over Time](#trends-over-time)  
-6. [Variability & Outliers](#variability-&-outliers)  
-7. [Conclusions & Recommendations](#conclusions-&-recommendations)
+## 📑 Tabla de Contenido
+1. [Objective / Objetivo](#1-objective--objetivo)  
+2. [Executive Summary / Resumen Ejecutivo](#2-executive-summary--resumen-ejecutivo)  
+3. [Worldwide Insights / Perspectivas Globales](#3-worldwide-insights--perspectivas-globales)  
+4. [Regional Breakdown / Desglose Regional](#4-regional-breakdown--desglose-regional)  
+5. [Trends Over Time / Tendencias a lo Largo del Tiempo](#5-trends-over-time--tendencias-a-lo-largo-del-tiempo)  
+6. [Variability & Outliers / Variabilidad & Valores Atípicos](#6-variability--outliers--variabilidad--valores-atipicos)  
+7. [Conclusions & Recommendations / Conclusiones & Recomendaciones](#7-conclusions--recommendations--conclusiones--recomendaciones)  
+
 
 ## 1. Objective | Objetivo
 El objetivo principal de este informe es analizar exhaustivamente las ventas globales de videojuegos entre 1980 y 2020, identificando patrones y tendencias clave por región, plataforma, género y franquicia, para extraer insights accionables que respalden decisiones estratégicas de producto, marketing y expansión de mercado.
