@@ -44,7 +44,7 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - El genero Platform es el que tiene el promedio de ventas más altas (0.95 M), teniendo en cuenta que ocupa el puesto 5 de generos con más ventas.
 - Hasta el 2004 el genero con más ventas había sido Platform, impulsado por el auge de la franquicia Mario; la cual representa el 36.44%   de las ventas de este genero.
 
-  **Metodología**<br>
+  **Metodología**  
    Para complementar este analisis, además de los gráficos que se ven en pantalla, usé:
   - Gráfico: Tabla
   - Columnas: name, genre, sales
@@ -91,7 +91,7 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - Role-Playing: Incluso desde 1996 ya venía con una tendencia al alza debido a la gran popularidad de Pokemon a finales de los 90's.
 - Action: Tuvo su pico más alto en 2009, a pesar de que en ese año no hubieron hits del genero acción. Sin embargo contaba con una gran variedad de juegos que tuvieron buenos numeros      ese año, haciendo que se eleve el total de ventas.
 
-  **Metodología**<br>
+  **Metodología**  
   Para complementar estos analisis, además de los gráficos que acabas de ver, usé:<br>
   Gráfico 1: Gráfico de columnas 100% apiladas
   - Leyenda: platform
@@ -145,7 +145,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 
 ## 7. **Conclusions & Recommendations / Conclusiones & Recomendaciones**
 
-Conclusiones:
+Conclusiones:  
+
 Tras examinar más de 8.800 millones de unidades vendidas y analizar múltiples perspectivas (regional, temporal, por género y plataforma), destacamos:
 - Norteamérica domina el 49,15 % de las ventas mundiales, seguida por Europa con 27,33 % y Japón con 14,57 %.
 - PlayStation 2 es la consola más exitosa de la historia, con 1.233,46 M unidades; el 13,98 % del total de ventas historicas.
