@@ -6,7 +6,7 @@
 3. [Worldwide Insights / Perspectivas Globales](#3-worldwide-insights--perspectivas-globales)  
 4. [Regional Breakdown / Desglose Regional](#4-regional-breakdown--desglose-regional)  
 5. [Trends Over Time / Tendencias a lo Largo del Tiempo](#5-trends-over-time--tendencias-a-lo-largo-del-tiempo)  
-6. [Variability & Outliers / Variabilidad & Valores Atípicos](#6-variability--outliers--variabilidad--valores-atipicos)  
+6. [Variability & Outliers / Variabilidad & Valores Atípicos](#6-variability--outliers--variabilidad--valores-atípicos)  
 7. [Conclusions & Recommendations / Conclusiones & Recomendaciones](#7-conclusions--recommendations--conclusiones--recomendaciones)  
 
 
