@@ -9,11 +9,11 @@
 6. [Variability & Outliers](#variability-&-outliers)  
 7. [Conclusions & Recommendations](#conclusions-&-recommendations)
 
-## 1. Objective
+## 1. Objective | Objetivo
 El objetivo principal de este informe es analizar exhaustivamente las ventas globales de videojuegos entre 1980 y 2020, identificando patrones y tendencias clave por región, plataforma, género y franquicia, para extraer insights accionables que respalden decisiones estratégicas de producto, marketing y expansión de mercado.
 
-## 2. Executive Summary
-![Executive Summary](../exports/Executive_Summary.png)
+## 2. Executive Summary | Resumen Ejecutivo
+![Executive Summary](../exports/Executive_Summary.png)  
 
 - **Total Video Game Sales | Ventas Totales en Videojuegos:** En total se han vendido 8820.36 millones de unidades de videojuegos en el mundo, desde 1980 hasta el         año 2020.  
 - **Top‑Selling Region | Región Con Más Ventas:** Norte América es la región con más ventas en la historia de la industria de videojuegos, con 4333.43 millones de unidades; lo cual representa el 49.15 % de las ventas mundiales.
@@ -21,8 +21,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - **Top‑Selling Game | Juego Más Vendido:** El juego más vendido en la historia es Wii Sports (82.74 M), lanzado en el año 2006  
 - **Global Sales Over Time (1980-2020) | Ventas Mundiales a lo Largo del Tiempo (1980-2020):** El pico más alto de ventas fue en 2008 con 678.9 millones de unidades.
 
-## 3. Worldwide Insights
-![Worldwide_Insights](../exports/Worldwide_Insights.png)
+## 3. Worldwide Insights | Perspectivas Globales
+![Worldwide_Insights](../exports/Worldwide_Insights.png)  
 
 **Top 10 Platforms by Global Sales | Top 10 Plataformas con Más Ventas Globales**  
 - La plataforma con más ventas en la historia es PlayStation 2 (1233.46 M), en el segundo y tercer puesto se encuentran X360 (969.61 M) y   PlayStation 3 (949.35 M).
@@ -49,8 +49,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
   - Columnas: name, genre, sales
   
 
-## 4. Regional Breakdown
-![Regional_Breakdown](../exports/Regional_Breakdown.png)
+## 4. Regional Breakdown | Desglose Regional
+![Regional_Breakdown](../exports/Regional_Breakdown.png)  
 
 **Global Sales Shared by Region | Ventas Globales Compartidas por Región**  
 - Norte América representa practicamente la mitad de las ventas historicas mundiales de la industria del gaming con el 49.15%.
@@ -66,8 +66,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - El genero que menos gusta a los japoneses es el genero Shooter, a pesar de que este es el tercer genero con más ventas mundiales.
 - El genero que más gusta a Europa, Norte America y el resto del mundo es Action, en Japón es Role-Playing. Por otra parte, Strategy es     el genero con menos ventas en Europa, Norte America y el resto del mundo.
 
-## 5. Trends Over Time
-![Trends_Over_Time](../exports/Trends_Over_Time.png)
+## 5. Trends Over Time | Tendencias a lo Largo del Tiempo
+![Trends_Over_Time](../exports/Trends_Over_Time.png)  
 
 **Regional Share of the Global Market | Participación Regional en el Mercado Global**  
 - Japón y Norte America estuvieron disputandose el primer puesto desde 1980 hasta 1995.
@@ -109,8 +109,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - Epoca dorada: los mejores años fueron entre 2005 y 2011, alcanzando ventas de 678.49 millones de unidades en un solo año (2008).
 - Del 2015 en adelante las ventas disminuyeron de manera significativa, pasando de 264.26 M en 2015 a 70.87 M en 2016. Esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc).
 
-## 6. Variability & Outliers
-![Variability_&_Outliers](../exports/Variability_&_Outliers.png)
+## 6. Variability & Outliers | Variabilidad & Valores Atípicos
+![Variability_&_Outliers](../exports/Variability_&_Outliers.png)  
 
 **North America vs. Japan – Sales Correlation & Dispersion | Norte America vs Japón - Dispersión y Correlación de Ventas**  
 - Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos).
@@ -143,6 +143,8 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - Con excepcion de Sony Computer Entertainment, todos los publishers de este top tienen una media mayor a la mediana, lo que refleja una    asimetría en sus boxplots, causada por ventas bastante altas.
 
 ## 7. **Conclusions & Recommendations | Conclusiones & Recomendaciones**
+
+Conclusiones:
 Tras examinar más de 8.800 millones de unidades vendidas y analizar múltiples perspectivas (regional, temporal, por género y plataforma), destacamos:
 - Norteamérica domina el 49,15 % de las ventas mundiales, seguida por Europa con 27,33 % y Japón con 14,57 %.
 - PlayStation 2 es la consola más exitosa de la historia, con 1.233,46 M unidades; el 13,98 % del total de ventas historicas.
