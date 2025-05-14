@@ -163,6 +163,6 @@ Con esto, las decisiones estratégicas se basan en datos precisos, favoreciendo 
 
 ## 8. Additional Insights / Insights Adicionales
 
-Gráficos suplementarios que aportan un contexto extra a los análisis previos:
+Gráficos suplementarios que aportan un contexto extra a los análisis previos:  
 ![Additional Insights](../exports/Additional_Insights.png)
 
