@@ -112,7 +112,7 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 - Del 2015 en adelante las ventas disminuyeron de manera significativa, pasando de 264.26 M en 2015 a 70.87 M en 2016. Esto pudo ser causado por la llegada de juegos móviles y los         juegos free-to-play (como PUBG Mobile, Candy Crush, etc).
 
 ## 6. Variability & Outliers / Variabilidad & Valores Atípicos
-![Variability_&_Outliers](../exports/Variability_&_Outliers.png)  
+![Variability_&_Outliers](../exports/Variability_Outliers.png)  
 
 **North America vs. Japan – Sales Correlation & Dispersion / Norte America vs Japón - Dispersión y Correlación de Ventas**  
 - Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón. Diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros), y viceversa (Duck Hunt, Wii Sports, entre        otros juegos).
