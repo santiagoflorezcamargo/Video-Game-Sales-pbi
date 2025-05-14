@@ -7,7 +7,8 @@
 4. [Regional Breakdown / Desglose Regional](#4-regional-breakdown--desglose-regional)  
 5. [Trends Over Time / Tendencias a lo Largo del Tiempo](#5-trends-over-time--tendencias-a-lo-largo-del-tiempo)  
 6. [Variability & Outliers / Variabilidad & Valores Atípicos](#6-variability--outliers--variabilidad--valores-atípicos)  
-7. [Conclusions & Recommendations / Conclusiones & Recomendaciones](#7-conclusions--recommendations--conclusiones--recomendaciones)  
+7. [Conclusions & Recommendations / Conclusiones & Recomendaciones](#7-conclusions--recommendations--conclusiones--recomendaciones)
+8. [Additional Insights / Insights Adicionales](#8-additional-insights--insights-adicionales)
 
 
 ## 1. Objective / Objetivo
@@ -159,3 +160,9 @@ Recomendaciones:
 - Replicar modelos de negocio de títulos con bajo grado de variabilidad y buenas ventas.
 - Implementar modelos predictivos que anticipen ventas por mercado y plataforma.
 Con esto, las decisiones estratégicas se basan en datos precisos, favoreciendo inversiones de alto impacto.
+
+## 8. Additional Insights / Insights Adicionales
+
+Gráficos suplementarios que aportan un contexto extra a los análisis previos:
+![Additional Insights](../exports/Additional_Insights.png)
+
