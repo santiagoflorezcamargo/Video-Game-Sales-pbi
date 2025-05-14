@@ -146,16 +146,16 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 
 ## 7. **Conclusions & Recommendations / Conclusiones & Recomendaciones**
 
-### Conclusiones:  
+### Conclusions / Conclusiones:  
 
 Tras examinar más de 8 800 millones de unidades vendidas y analizar múltiples perspectivas (regional, temporal, por género y plataforma), destacamos:
-- Norteamérica domina el 49.15% de las ventas mundiales, seguida por Europa con 27.33 % y Japón con 14.57 %.
+- Norteamérica domina el 49.15% de las ventas mundiales, seguida por Europa con 27.33% y Japón con 14.57%.
 - PlayStation 2 es la consola más exitosa de la historia, con 1233.46 M unidades; el 13.98% del total de ventas historicas.
 - El género Action lidera con el 19.53 % de los ingresos, mientras que Role-Playing crece de forma constante gracias a franquicias como Pokémon.
 - El pico de ventas globales (678.9 M unidades) se alcanzó en 2008; desde 2016 existe un declive asociado al auge de los juegos móviles.
 - La dispersión de ventas en las diferentes regiones, tienen coeficientes de variación mayores al 300%, lo que revela una industria polarizada: pocos títulos “mega-éxitos” contra una larga cola de juegos de rendimiento moderado.
 
-### Recomendaciones:
+### Recommendations / Recomendaciones:
 - Priorizar el desarrollo y marketing de géneros y regiones de mayor crecimiento.
 - Replicar modelos de negocio de títulos con bajo grado de variabilidad y buenas ventas.
 - Implementar modelos predictivos que anticipen ventas por mercado y plataforma.
