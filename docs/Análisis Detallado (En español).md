@@ -164,5 +164,20 @@ Con esto, las decisiones estratégicas se basan en datos precisos, favoreciendo 
 ## 8. Additional Insights / Insights Adicionales
 
 Gráficos suplementarios que aportan un contexto extra a los análisis previos:  
-![Additional Insights](../exports/Additional_Insights.png)
+
+![Additional Insights](../exports/Additional_Insights.png)  
+
+**Platform Share by Genre / Participación de las Plataformas por Género**  
+
+Este gráfico muestra cuanta participación tuvo cada plataforma dentro de cada género en cada año. Se hizo con el fin de complementar el análisis de las gráficas: *Sales Fluctuation of the Four Best-Selling Genres / Fluctuación de Ventas de los 4 Generos Más Vendidos*.  
+Especificamente se usó para saber que porcentaje de ventas representaba PlayStation 2 en los diferentes géneros, y que porcentaje representaba Nintendo Wii en el género Sports
+
+**Top 3 Video Games by Year**  
+Este gráfico muestra el top 3 de juegos más vendidos por año.
+También se usó para complementar los análisis de las gráficas: *Sales Fluctuation of the Four Best-Selling Genres / Fluctuación de Ventas de los 4 Generos Más Vendidos*.  
+Sirvió para identificar que la franquicia Call Of Duty estuvo desde el 2007 hasta el 2015 dentro del top 3 de juegos más vendidos en el mundo.
+
+**Mario Franchise Sales in the Platform Genre / Ventas de la Franquicia Mario en el Género Platform**  
+Esta tabla se usó para complementar el análisis de la gráfica: *Sales by Genre + Global Average Line / Ventas por Genero + Linea de Promedios de Ventas*.  
+Por medio de esta tabla vimos que la franquicia Mario representa el 36.44% de las ventas del género Platform.
 
