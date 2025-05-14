@@ -115,7 +115,7 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 ![Variability_&_Outliers](../exports/Variability_&_Outliers.png)  
 
 **North America vs. Japan – Sales Correlation & Dispersion / Norte America vs Japón - Dispersión y Correlación de Ventas**  
-- Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón, diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros) y viceversa (Duck Hunt, Wii Sports, entre        otros juegos).
+- Los puntos están dispersos y no siguen una linea recta: esto quiere decir que no hay correlación o que la correlación es debil entre las ventas en Norte      America y las ventas en Japón. Diciendolo de otra manera, hay juegos que aunque fueron un exito en Japón, no fueron tan populares en      Norte America (Ej: Pokemon Red/Pokemon Blue, Pokemon Diamond/Pokemon Pearl, entre otros), y viceversa (Duck Hunt, Wii Sports, entre        otros juegos).
 - Algunas de las causas de esta baja correlación puede deberse a diferencias culturales, los japoneses muestran un claro favoritismo por    los juegos de Role-Playing, mientras que los norte americanos tienen gustos más variados y una inclinación hacia el genero Shooter.
 
 **North America vs. Europe – Sales Correlation & Dispersion / Norte America vs Europa - Dispersión y Correlación de Ventas**
@@ -124,13 +124,13 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 
 **North America vs. Rest of the World – Sales Correlation & Dispersion / Norte America vs El Resto del Mundo - Dispersión y Correlación de Ventas**
 - Hay mayor correlación que en Japón pero menos que en Europa.
-- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen una fuerte inclinación por los juegos de disparos, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
+- Hay más cantidad de outliers, como por ejemplo Duck Hunt, el cual fue un punto atipico en los 3 graficos; esto da a entender que solo     tuvo popularidad en la región Norteamericana. Algunas de las causas pudieron ser temas culturales, como vimos en analisis anteriores,     los norteamericanos tienen una inclinación por los juegos del género Shooter, mientras que regiones como Japón prefieren los juegos de        Role-Playing y Platform.
 
 **Sales Distribution by Genre / Distribución de Ventas por Genero**
 - Con un rango intercuartilico (IQR) de 658.83 y un rango total de 1549.45, el rango intecuartilico representa el 42.46% del rango total    (658/1549.45=0.4246). Esto nos dice que hay una alta dispersión central en las ventas de los generos.
 - No hay ventas que sean consideradas atipicas, todos los puntos (las ventas por generos) están dentro de los limites del boxplot. Es       decir, que aunque hubieron ventas muy altas (Action: 1722.48 M), son consideradas como ventas que están dentro de la
   variabilidad esperada.
-- La mediana (762.19) es ligeramente mayor que la media (735.03), esto ocurre porque hubieron varias ventas con valores muy bajos
+- La media (735.03) es ligeramente menor que la mediana (762.19), esto ocurre porque hubieron varias ventas con valores muy bajos
   que 'jalaron' la media hacia abajo.
 
 **Sales Distribution by Platform / Distribución de Ventas por Plataforma**
@@ -141,19 +141,19 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 
 **Sales Distribution by Publisher & Genre / Distribución de Ventas por Publisher y Género**
 - Las ventas de generos como Action, Sports, Shooter, entre otros, fueron consideradas atipicas por algunos publishers debido al gran       exito que tuvieron.
-- Sony Computer Entertainment: Median = Mean. Esto indica que la distribución es simetrica; además, la mitad de los valores cubren el 70%   del rango total (IQR/Rango total = 0.7). Esto quiere decir la dispersión central de las ventas es muy amplia.
+- Sony Computer Entertainment: Median = Mean. Esto indica que la distribución es simetrica; además, la mitad de los valores cubren el 70%   del rango total (IQR/Rango total = 0.7). Esto quiere decir que la dispersión central de las ventas es muy amplia.
 - Con excepcion de Sony Computer Entertainment, todos los publishers de este top tienen una media mayor a la mediana, lo que refleja una    asimetría en sus boxplots, causada por ventas bastante altas.
 
 ## 7. **Conclusions & Recommendations / Conclusiones & Recomendaciones**
 
 Conclusiones:  
 
-Tras examinar más de 8.800 millones de unidades vendidas y analizar múltiples perspectivas (regional, temporal, por género y plataforma), destacamos:
-- Norteamérica domina el 49,15 % de las ventas mundiales, seguida por Europa con 27,33 % y Japón con 14,57 %.
-- PlayStation 2 es la consola más exitosa de la historia, con 1.233,46 M unidades; el 13,98 % del total de ventas historicas.
-- El género Action lidera con el 19,53 % de los ingresos, mientras que Role-Playing crece de forma constante gracias a franquicias como Pokémon.
-- El pico de ventas globales (678,9 M unidades) se alcanzó en 2008; desde 2016 existe un declive asociado al auge de los juegos móviles.
-- La dispersión de ventas en las diferentes regiones, tienen coeficientes de variación mayores al 300 %, lo que revela una industria polarizada: pocos títulos “mega-éxitos” contra una larga cola de juegos de rendimiento moderado.
+Tras examinar más de 8 800 millones de unidades vendidas y analizar múltiples perspectivas (regional, temporal, por género y plataforma), destacamos:
+- Norteamérica domina el 49.15% de las ventas mundiales, seguida por Europa con 27.33 % y Japón con 14.57 %.
+- PlayStation 2 es la consola más exitosa de la historia, con 1233.46 M unidades; el 13.98% del total de ventas historicas.
+- El género Action lidera con el 19.53 % de los ingresos, mientras que Role-Playing crece de forma constante gracias a franquicias como Pokémon.
+- El pico de ventas globales (678.9 M unidades) se alcanzó en 2008; desde 2016 existe un declive asociado al auge de los juegos móviles.
+- La dispersión de ventas en las diferentes regiones, tienen coeficientes de variación mayores al 300%, lo que revela una industria polarizada: pocos títulos “mega-éxitos” contra una larga cola de juegos de rendimiento moderado.
 
 Recomendaciones:
 - Priorizar el desarrollo y marketing de géneros y regiones de mayor crecimiento.
@@ -170,7 +170,7 @@ Gráficos suplementarios que aportan un contexto extra a los análisis previos:
 **Platform Share by Genre / Participación de las Plataformas por Género**  
 
 Este gráfico muestra cuanta participación tuvo cada plataforma dentro de cada género en cada año. Se hizo con el fin de complementar el análisis de las gráficas: *Sales Fluctuation of the Four Best-Selling Genres / Fluctuación de Ventas de los 4 Generos Más Vendidos*.  
-Especificamente se usó para saber que porcentaje de ventas representaba PlayStation 2 en los diferentes géneros, y que porcentaje representaba Nintendo Wii en el género Sports
+Especificamente se usó para saber que porcentaje de ventas representaba PlayStation 2 en los diferentes géneros, y que porcentaje representaba Nintendo Wii en el género Sports.
 
 **Top 3 Video Games by Year**  
 Este gráfico muestra el top 3 de juegos más vendidos por año.
