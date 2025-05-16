@@ -126,16 +126,16 @@ To support this analysis, the following visuals and setups were used:
 
   ---
 
-  ## 6. Variability & Outliers  
+## 6. Variability & Outliers
 ![Variability & Outliers](../exports/Variability_Outliers.png)  
 
 **Sales Correlation: North America vs. Japan**  
-- The points are scattered and do not follow a clear linear pattern, indicating **little to no correlation** between sales in North America and Japan.  
-- Some games were **massive in Japan** but underwhelming in North America (*e.g., Pokémon Red/Blue, Pokémon Diamond/Pearl*), while others did well only in North America (*e.g., Duck Hunt, Wii Sports*).  
-- **Cultural preferences** likely play a major role — Japanese audiences tend to favor **Role-Playing** games, whereas North American audiences show broader tastes with a strong lean toward the **Shooter** genre.
+- The points are scattered and do not follow a clear linear pattern, indicating **little to no correlation** between sales in North America and Japan.
+- Some games were **massive in Japan** but underwhelming in North America (*e.g., Pokémon Red/Blue, Pokémon Diamond/Pearl*), while others did well only in North America (*e.g., Duck       Hunt, Wii Sports*).  
+- **Cultural preferences** likely play a major role — Japanese audiences tend to favor **Role-Playing** games, whereas North American audiences show broader tastes with a strong lean        toward the **Shooter** genre.
 
 **Sales Correlation: North America vs. Europe**  
-- Sales in North America and Europe exhibit a **stronger correlation**, with most points clustered around the trendline.  
+- Sales in North America and Europe exhibit a **stronger correlation**, with most points clustered around the trendline.
 - The general pattern shows **similar market preferences**, where success in one region often mirrors success in the other.
 
 **Sales Correlation: North America vs. Rest of World**  
@@ -159,7 +159,7 @@ To support this analysis, the following visuals and setups were used:
 
 **Sales Distribution by Publisher & Genre**  
 - Some publishers achieved **genre-level sales outliers**, especially in **Action, Sports**, and **Shooter**.  
-- **Sony Computer Entertainment** shows a **symmetric distribution** with mean ≈ median and an IQR that covers **70 % of the total range**, suggesting a **well-balanced sales performance**.  
+- **Sony Computer Entertainment** shows a **symmetric distribution** with mean ≈ median and an IQR that covers **70 % of the total range**, suggesting a **well-balanced sales                performance**.  
 - Other publishers (e.g., Nintendo, EA) have a **mean significantly higher than the median**, pointing to **skewed distributions** driven by **massive hits**.
 
 ---
