@@ -125,3 +125,98 @@ To support this analysis, the following visuals and setups were used:
 - From 2015 onwards, sales declined sharply—from **264.26 M** in 2015 to **70.87 M** in 2016.  
   This drop is likely linked to the rise of mobile and free-to-play games like *Candy Crush* and *PUBG Mobile*.
 
+  ---
+
+  ## 6. Variability & Outliers  
+![Variability & Outliers](../exports/Variability_Outliers.png)  
+
+**Sales Correlation: North America vs. Japan**  
+- The points are scattered and do not follow a clear linear pattern, indicating **little to no correlation** between sales in North America and Japan.  
+- Some games were **massive in Japan** but underwhelming in North America (*e.g., Pokémon Red/Blue, Pokémon Diamond/Pearl*), while others did well only in North America (*e.g., Duck Hunt, Wii Sports*).  
+- **Cultural preferences** likely play a major role — Japanese audiences tend to favor **Role-Playing** games, whereas North American audiences show broader tastes with a strong lean toward the **Shooter** genre.
+
+**Sales Correlation: North America vs. Europe**  
+- Sales in North America and Europe exhibit a **stronger correlation**, with most points clustered around the trendline.  
+- The general pattern shows **similar market preferences**, where success in one region often mirrors success in the other.
+
+**Sales Correlation: North America vs. Rest of World**  
+- The correlation here is **moderate** — stronger than with Japan, but **weaker than with Europe**.  
+- The chart contains **more outliers**, including *Duck Hunt*, which appears as an anomaly in all three comparisons — suggesting it was primarily a **North American phenomenon**.  
+- Once again, cultural differences are a likely factor. While **North America favors Shooters**, regions like Japan lean towards **Role-Playing and Platform** titles.
+
+**Sales Distribution by Genre**  
+- **Interquartile Range (IQR):** 658.83  
+- **Total Range:** 1549.45  
+- The IQR represents **42.46 %** of the total range, indicating **high central dispersion** in genre sales.  
+- There are **no outliers** in the genre distribution — even the top-selling genre (*Action*, with 1722.48M) falls within expected variability.  
+- **Mean:** 735.03 | **Median:** 762.19  
+- The **slightly lower mean** suggests the presence of **lower-selling genres** pulling the average down.
+
+**Sales Distribution by Platform**  
+- There are **6 outlier points** — platforms with exceptionally high sales (e.g., 1233.46M, 969.61M), well above the upper whisker.  
+- **Mean:** 284.53 | **Median:** 200.05  
+- The **significant gap** between the mean and median indicates a **right-skewed distribution** due to blockbuster platforms like **PS2** and **X360**.  
+- **75 % of platforms** sold **≤ 284.90M**, highlighting the dominance of a few market leaders over a broad base of underperformers.
+
+**Sales Distribution by Publisher & Genre**  
+- Some publishers achieved **genre-level sales outliers**, especially in **Action, Sports**, and **Shooter**.  
+- **Sony Computer Entertainment** shows a **symmetric distribution** with mean ≈ median and an IQR that covers **70 % of the total range**, suggesting a **well-balanced sales performance**.  
+- Other publishers (e.g., Nintendo, EA) have a **mean significantly higher than the median**, pointing to **skewed distributions** driven by **massive hits**.
+
+---
+
+## 7. Conclusions & Recommendations  
+
+![Conclusions & Recommendations](../exports/Conclusions_Recommendations.png)  
+
+### **Conclusions**  
+
+After analyzing over **8,800 million units** sold from multiple perspectives —regional, temporal, by genre, and by platform— the key insights are:
+
+- **North America** leads the market with **49.15 %** of global video game sales, followed by **Europe (27.33 %)** and **Japan (14.57 %)**.  
+- The **PlayStation 2** is the most successful console of all time, with **1,233.46 million** units sold — representing **13.98 %** of all-time sales.  
+- **Action** is the top-selling genre (**19.53 %** of global sales), while **Role-Playing** shows steady growth thanks to franchises like *Pokémon*.  
+- Global sales **peaked in 2008** at **678.90 million** units. Since 2016, a **declining trend** has emerged, likely due to the rise of **mobile and free-to-play games**.  
+- Sales dispersion across regions shows **coefficients of variation above 300 %**, indicating a **polarized market**: a few mega-hits dominate, while most titles show moderate performance.
+
+---
+
+### **Recommendations**  
+
+To support data-informed decision-making:
+
+- **Prioritize investment** in the fastest-growing **genres and regions**.  
+- **Replicate business models** from titles with **low variability and consistent performance**.  
+- **Implement predictive models** to forecast sales by market and platform, improving strategic planning and return on Investment.  
+
+These approaches enable **targeted, high-impact decisions** in an increasingly competitive and dynamic gaming industry.
+
+--- 
+
+## 8. Additional Insights
+
+Supplementary visuals providing deeper context and validation for previous analyses:  
+
+![Additional-Insights](../exports/Additional_Insights.png)  
+
+---
+
+### **Platform Share by Genre**  
+This stacked chart shows the **annual percentage share** of each platform within every video game genre. It was used to **complement the analysis of the "Sales Fluctuation of the Four Best-Selling Genres" chart**, by answering key questions such as:
+- What proportion of **Action, Sports, Shooter,** or **Role-Playing** sales came from **PlayStation 2**?
+- How dominant was the **Nintendo Wii** within the **Sports** genre?
+
+---
+
+### **Top 3 Video Games by Year**  
+This visual displays the **three best-selling games for each year** from 1980 to 2020. It helped reinforce conclusions drawn in the **"Sales Fluctuation of the Four Best-Selling Genres"** section, especially:
+- The persistent dominance of the **Call of Duty** franchise, which appeared in the global top 3 **every year from 2007 to 2015**.
+
+---
+
+### **Mario Franchise Sales in the Platform Genre**  
+This table quantifies the **impact of the Mario franchise** within the **Platform** genre. It served to support the analysis in the **"Sales by Genre + Global Average Line"** section.  
+Key takeaway:
+- **Mario accounts for 36.44 %** of all Platform genre sales globally—highlighting its foundational role in that category.
+
+
