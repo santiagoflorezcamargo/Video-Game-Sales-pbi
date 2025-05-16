@@ -17,7 +17,7 @@ El objetivo principal de este informe es analizar exhaustivamente las ventas glo
 ## 2. Executive Summary / Resumen Ejecutivo
 ![Executive Summary](../exports/Executive_Summary.png)  
 
-- **Total Video Game Sales / Ventas Totales en Videojuegos:** En total se han vendido 8820.36 millones de unidades de videojuegos en el mundo, desde 1980 hasta el         año 2020.  
+- **Total Video Game Sales / Ventas Totales en Videojuegos:** En total se han vendido 8820.36 millones de unidades de videojuegos en el mundo, desde 1980 hasta el año 2020.  
 - **Top‑Selling Region / Región Con Más Ventas:** Norte América es la región con más ventas en la historia de la industria de videojuegos, con 4333.43 millones de unidades; lo cual representa el 49.15 % de las ventas mundiales.
 - **Best‑Selling Platform / Plataforma Con Más Ventas:** PlayStation 2 es la plataforma que más a vendido a lo largo de la historia, con 1233.46 M.
 - **Top‑Selling Game / Juego Más Vendido:** El juego más vendido en la historia es Wii Sports (82.74 M), lanzado en el año 2006.  
