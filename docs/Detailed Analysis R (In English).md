@@ -1,4 +1,3 @@
-#Analysis
 # Global Video Game Sales Analysis (1980–2020)
 
 ## 📑 Table of Contents
@@ -167,8 +166,6 @@ To support this analysis, the following visuals and setups were used:
 
 ## 7. Conclusions & Recommendations  
 
-![Conclusions & Recommendations](../exports/Conclusions_Recommendations.png)  
-
 ### **Conclusions**  
 
 After analyzing over **8,800 million units** sold from multiple perspectives —regional, temporal, by genre, and by platform— the key insights are:
@@ -199,20 +196,14 @@ Supplementary visuals providing deeper context and validation for previous analy
 
 ![Additional-Insights](../exports/Additional_Insights.png)  
 
----
-
 ### **Platform Share by Genre**  
 This stacked chart shows the **annual percentage share** of each platform within every video game genre. It was used to **complement the analysis of the "Sales Fluctuation of the Four Best-Selling Genres" chart**, by answering key questions such as:
 - What proportion of **Action, Sports, Shooter,** or **Role-Playing** sales came from **PlayStation 2**?
 - How dominant was the **Nintendo Wii** within the **Sports** genre?
 
----
-
 ### **Top 3 Video Games by Year**  
 This visual displays the **three best-selling games for each year** from 1980 to 2020. It helped reinforce conclusions drawn in the **"Sales Fluctuation of the Four Best-Selling Genres"** section, especially:
 - The persistent dominance of the **Call of Duty** franchise, which appeared in the global top 3 **every year from 2007 to 2015**.
-
----
 
 ### **Mario Franchise Sales in the Platform Genre**  
 This table quantifies the **impact of the Mario franchise** within the **Platform** genre. It served to support the analysis in the **"Sales by Genre + Global Average Line"** section.  
