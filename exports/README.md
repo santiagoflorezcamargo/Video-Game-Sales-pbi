@@ -24,7 +24,7 @@ Este directorio contiene todas las capturas de pantalla usadas en los análisis 
 
 ## Uso
 
-En los archivos Markdown de análisis (`Analysis_español.md`, `Analysis_English.md`) se referencian con rutas relativas:
+En los archivos Markdown de análisis (`Analysis Detallado (En Español).md`, `Detailed Analysis (In English).md`) se referencian con rutas relativas:
 
 ```markdown
 ![Executive Summary](../exports/Executive_Summary.png)
