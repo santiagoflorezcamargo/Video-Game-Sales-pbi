@@ -54,6 +54,74 @@ To supplement these visuals, I also used:
 - **Chart type:** Table  
 - **Columns:** `name`, `genre`, `sales`  
 
+---
 
+## 4. Regional Breakdown
 
+![Regional Breakdown](../exports/Regional_Breakdown.png)  
+
+**Global Sales Share by Region**  
+- North America accounts for **49.15 %** of global video game sales—nearly half of the industry’s historical total.  
+- Europe, Japan, and the Rest of World represent **27.33 %**, **14.57 %**, and **8.95 %** of global sales, respectively.
+
+**Publisher Sales by Region**  
+- In North America and Europe, the top publishers are Nintendo, Electronic Arts, Activision, Sony Computer Entertainment, and Ubisoft—showing how similar these two markets are.  
+- In Japan, the leading five are Nintendo, Bandai Namco, Konami Digital Entertainment, Sony Computer Entertainment, and Capcom, reflecting strong local preferences.  
+- The Rest of World mirrors the North American/European ranking, except Electronic Arts is first and Take-Two Interactive replaces Ubisoft.
+
+**Sales by Genre & Region**  
+- North America leads every genre except Role-Playing, where Japan takes the top spot.  
+- Shooter is the least popular genre in Japan, despite ranking third globally.  
+- Action is the most popular genre in Europe, North America, and the Rest of World; Role-Playing leads in Japan. Strategy is the weakest genre across Europe, North America, and the Rest of World.  
+
+---
+
+## 5. Trends Over Time
+
+![Trends Over Time](../exports/Trends_Over_Time.png)  
+
+**Regional Share of the Global Market**  
+- Japan and North America were neck-and-neck for the top spot between 1980 and 1995.  
+- From 1996 to 2015, North America led in annual sales every year.  
+- Since 1997, Europe overtook Japan and held the second spot—reaching its peak in 2016 with **37.76 %** market share, ahead of North America’s **31.97 %**.
+
+**Platform Sales Over Time**  
+- The five best-selling platforms of all time launched after the year 2000.  
+- PlayStation 2 dominated from 2000 to 2005.  
+- In 2006, Nintendo Wii launched and took the top spot that same year—and again in 2007, 2008, and 2009.  
+- Xbox 360 and PlayStation 3, released in 2005 and 2006 respectively, took turns leading: Xbox 360 in 2010 and 2015; PS3 from 2011 to 2014.  
+- The Nintendo DS, launched in 2004, peaked in 2007 with **298.38 million** units sold.
+
+**Sales Fluctuation of the Four Best-Selling Genres**  
+- The peak years for Action, Sports, Shooter, and Role-Playing genres were between **2005–2011**, considered the golden age of gaming.  
+- Trendlines rise post-2000, influenced by the arrival of PlayStation 2, which in 2005 alone accounted for:  
+  - **36.23 %** of Action sales  
+  - **37.63 %** of Sports sales  
+  - **30.07 %** of Shooter sales  
+  - **17.40 %** of Role-Playing sales  
+- **Sports** peaked in 2006 and 2009, driven by the success of the Nintendo Wii and titles like *Wii Sports*, *Wii Sports Resort*, and *Wii Fit Plus*.  
+- **Shooter** sales surged between 2007 and 2015, thanks to the *Call of Duty* franchise, which consistently ranked in the global top 3.  
+- **Role-Playing** began trending upward as early as 1996 due to *Pokémon*’s explosion in popularity.  
+- **Action** hit its highest point in 2009, not because of a single blockbuster, but a wide variety of well-performing titles.
+
+**Methodology**  
+To support this analysis, the following visuals and setups were used:
+
+- *Chart 1: 100% Stacked Column Chart*  
+  - Legend: `platform`  
+  - X-Axis: `genre`  
+  - Y-Axis: `Sum of Global Sales`  
+  - Slicer: `year`  
+
+- *Chart 2: Clustered Column Chart*  
+  - Legend: `name`  
+  - X-Axis: `year`  
+  - Y-Axis: `Sum of Global Sales`  
+  - Slicer: `year`
+
+**Global Sales Trend Over Time**  
+- Early years saw relatively low sales due to the industry's nascency.  
+- **Golden Era (2005–2011):** Peak year was **2008** with **678.49 million** units sold.  
+- From 2015 onwards, sales declined sharply—from **264.26 M** in 2015 to **70.87 M** in 2016.  
+  This drop is likely linked to the rise of mobile and free-to-play games like *Candy Crush* and *PUBG Mobile*.
 
