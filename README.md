@@ -117,18 +117,19 @@ _For full visuals and deep-dive, see the PDF and Power BI report._
 
 ## Files & Structure
 
-├── video_game_sales.sql # All data-prep & analysis queries  
-├── data/ # (optional) raw datasets  
-│ └── vgsales.csv # Raw data (Kaggle “EDA – VIDEO GAME SALES”)  
-├── docs/ # Detailed write-ups  
-│ ├── Análisis Detallado (En español).md  
-│ └── Detailed Analysis (In English).md  
-├── exports/ # Screenshots & exported visuals  
-│ └── *.png  
-├── reports/ # Final outputs  
-│ ├── Video Game Sales Project.pbix # Interactive Power BI report  
-│ └── Video Game Sales Project.pdf # Static PDF with full narrative  
-└── README.md # Project overview & instructions  
+├── video_game_sales.sql          # All data preparation & analysis queries  
+├── data/                         # (optional) Raw datasets  
+│   └── vgsales.csv              # Raw data (Kaggle "EDA - VIDEO GAME SALES")  
+├── docs/                        # Detailed write-ups  
+│   ├── Análisis Detallado (En español).md  
+│   └── Detailed Analysis (In English).md  
+├── exports/                     # Screenshots & exported visuals  
+│   └── *.png                   
+├── reports/                     # Final outputs  
+│   ├── Video Game Sales Project.pbix  # Interactive Power BI report  
+│   └── Video Game Sales Project.pdf   # Static PDF with full narrative  
+└── README.md                    # Project overview & instructions  
+
 ---
 
 ## Requirements & Usage
