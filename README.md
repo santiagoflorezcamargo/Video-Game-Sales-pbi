@@ -136,8 +136,7 @@ _For full visuals and deep-dive, see the PDF and Power BI report._
 
 1. **MySQL ≥ 8.0** – Run `video_game_sales.sql` to create DB & clean data.  
 2. **Power BI Desktop ≥ 2024** – Open `video_game_sales.pbix`.  
-3. **.NET Framework ≥ 4.7.2** – For certain custom visuals (if prompted).  
-4. **Usage**:  
+3. **Usage**:  
    - Clone this repo  
    - Load the CSV into MySQL via the provided SQL script  
    - Open the PBIX in Power BI Desktop and explore pages/slicers  
@@ -155,6 +154,7 @@ This project is released under the [MIT License](LICENSE).
 
 **Santiago A. Flórez Camargo**  
 Industrial Engineering Student (Final Semester) • Universidad del Magdalena  
+🗓️ May 2025  
 📧 sa.florezcamargo@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-flórez-camargo) | [GitHub](https://github.com/santiagoflorezcamargo)  
 
