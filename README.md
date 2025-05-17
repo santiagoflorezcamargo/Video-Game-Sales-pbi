@@ -113,3 +113,38 @@ _For full visuals and deep-dive, see the PDF and Power BI report._
 
 ## Files & Structure
 
+├── video_game_sales.sql # All data-prep & analysis queries
+├── data/
+│ └── video_game_sales.csv # Raw dataset (Kaggle “EDA – VIDEO GAME SALES”)
+├── video_game_sales.pbix # Interactive Power BI report
+├── video_game_sales_report.pdf # Exported Power BI as static PDF
+└── README.md # This overview & instructions
+---
+
+## Requirements & Usage
+
+1. **MySQL ≥ 5.7** – Run `video_game_sales.sql` to create DB & clean data.  
+2. **Power BI Desktop ≥ February 2024** – Open `video_game_sales.pbix`.  
+3. **.NET Framework ≥ 4.7.2** – For certain custom visuals (if prompted).  
+4. **Usage**:  
+   - Clone this repo  
+   - Load the CSV into MySQL via the provided SQL script  
+   - Open the PBIX in Power BI Desktop and explore pages/slicers  
+   - Or view `video_game_sales_report.pdf` for the full narrative
+
+---
+
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+---
+
+## Contact
+
+**Santiago A. Flórez Camargo**  
+Industrial Engineering Student • Universidad del Magdalena  
+📧 sa.florezcamargo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/santiago-flórez-camargo) | [GitHub](https://github.com/santiagoflorezcamargo)  
+
+
