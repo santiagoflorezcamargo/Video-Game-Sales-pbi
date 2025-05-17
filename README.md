@@ -1,6 +1,10 @@
 # Global Video Game Sales Analysis (1980–2020)
 
+
 A full-stack exploration of global video game sales from 1980 to 2020 using MySQL for data preparation and Power BI for interactive reporting.
+
+
+🗓️ Project completed in: **May 2025**
 
 ---
 
@@ -123,8 +127,8 @@ _For full visuals and deep-dive, see the PDF and Power BI report._
 
 ## Requirements & Usage
 
-1. **MySQL ≥ 5.7** – Run `video_game_sales.sql` to create DB & clean data.  
-2. **Power BI Desktop ≥ February 2024** – Open `video_game_sales.pbix`.  
+1. **MySQL ≥ 8.0** – Run `video_game_sales.sql` to create DB & clean data.  
+2. **Power BI Desktop ≥ 2024** – Open `video_game_sales.pbix`.  
 3. **.NET Framework ≥ 4.7.2** – For certain custom visuals (if prompted).  
 4. **Usage**:  
    - Clone this repo  
@@ -143,8 +147,7 @@ This project is released under the [MIT License](LICENSE).
 ## Contact
 
 **Santiago A. Flórez Camargo**  
-Industrial Engineering Student • Universidad del Magdalena  
+Industrial Engineering Student (Final Semester) • Universidad del Magdalena  
 📧 sa.florezcamargo@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-flórez-camargo) | [GitHub](https://github.com/santiagoflorezcamargo)  
-
 
